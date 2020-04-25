@@ -1,5 +1,5 @@
 body {
-  background-color:#fff;
+background-color:#2c95a5;
 }
 
 .paragraph {
@@ -16,6 +16,7 @@ body {
   height:inherit;
   padding: .5vw;
   text-align:center;
+  border: .5vw solid #dd7179;
 }
 
 .hdiv {
@@ -50,4 +51,8 @@ body {
 
 #div4 { /*Second Paragraph*/
   background-color:#eee7c7;
+}
+
+#div5 { /*Third Heading*/
+  background-color:#ff0;
 }
