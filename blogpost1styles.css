@@ -1,5 +1,5 @@
 body {
-background-color:#2c95a5;
+background-image:url("explode.jpg")
 }
 
 .paragraph {
@@ -10,13 +10,10 @@ background-color:#2c95a5;
 }
 
 .pdiv {
-  width:75vw;
-  position:relative;
-  left:12.5vw;
-  height:inherit;
   padding: .5vw;
   text-align:center;
-  border: .5vw solid #dd7179;
+  border: .5vw solid #120a8f;
+  border:.25vw solid #030056;
 }
 
 .hdiv {
@@ -37,22 +34,44 @@ background-color:#2c95a5;
 }
 
 #div1 { /*First Heading*/
-  background-color:#ff0;
+  background-color:#030056;
+  color:#fff;
 }
 
 #div2 { /*First Paragraph*/
-  background-color:#68c6bc;
+  background-color:#7a67ee;
+  float:left;
+  clear:both;
+  width:20vw;
+  left:1vw;
+  height:45vw;
+  margin-bottom:1vw;
+}
+
+#span1 {
+  background-color:#fff;
+  padding:.5vw;
+  background-color:#33f;
+
 }
 
 #div3 { /*Second Heading*/
-  background-color:#ff0;
-
+  background-color:#33f;
 }
 
 #div4 { /*Second Paragraph*/
-  background-color:#eee7c7;
+  background-color:#7a67ee;
+  float:left;
+  width:67vw;
+  margin-left:1vw;
+  color:#000;
 }
 
 #div5 { /*Third Heading*/
   background-color:#ff0;
+  clear:both;
+}
+
+#div6 { /*Third Paragraph*/
+  background-color:#fff;
 }
