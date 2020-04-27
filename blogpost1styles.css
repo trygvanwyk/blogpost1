@@ -3,7 +3,7 @@ background-image:url("explode.jpg")
 }
 
 .paragraph {
-  font-size:2vw;
+  font-size:1.75vw;
   font-family:arial;
   margin-left:.5vw;
   margin-right:.5vw;
@@ -28,7 +28,6 @@ background-image:url("explode.jpg")
 }
 
 .h02 {
-  line-height:10vw;
   font-size:2.5vw;
   font-family:sans-serif;
 }
@@ -44,19 +43,24 @@ background-image:url("explode.jpg")
   clear:both;
   width:20vw;
   left:1vw;
-  height:45vw;
+  height:42.5vw;
   margin-bottom:1vw;
 }
 
+#img1 {
+  width:18vw;
+  height:12vw;
+  border: .25vw solid navy;
+}
+
 #span1 {
-  background-color:#fff;
   padding:.5vw;
-  background-color:#33f;
 
 }
 
 #div3 { /*Second Heading*/
   background-color:#33f;
+  line-height:10vw;
 }
 
 #div4 { /*Second Paragraph*/
@@ -65,13 +69,40 @@ background-image:url("explode.jpg")
   width:74vw;
   margin-left:1vw;
   color:#000;
+  text-align:left;
 }
 
 #div5 { /*Third Heading*/
-  background-color:#ff0;
+  background-color:#33f;
   clear:both;
+  float:left;
+  width:49vw;
+  margin-bottom:1vw;
+  line-height:6vw;
 }
 
 #div6 { /*Third Paragraph*/
-  background-color:#fff;
+  background-color:#7a67ee;
+  clear:left;
+  float:left;
+  width:47vw;
+  text-align:left;
+}
+
+#div7 { /*Fourth Heading*/
+  background-color:#33f;
+  float:right;
+  width:49vw;
+  clear:right;
+  text-align:center;
+  margin-bottom:1vw;
+  line-height:6vw;
+}
+
+#div8 { /*Fourth Paragraph*/
+  background-color:#7a67ee;
+  clear:right;
+  float:right;
+  width:47vw;
+  text-align:left;
 }
