@@ -68,6 +68,7 @@
 #div3 { /*Second Heading*/
   background-color:#33f;
   line-height:10vw;
+  margin-bottom:1vw;
 }
 
 #div4 { /*Second Paragraph*/
@@ -156,4 +157,18 @@
   clear:none;
   margin-top:-8.5vw;
   margin-left:28vw;
+}
+
+#div10 { /*Comment Box*/
+  clear:both;
+  float:left;
+  width:90vw;
+  height:10vw;
+  margin-top:1vw;
+  margin-bottom:2vw;
+  text-align:left;
+}
+
+#commenttext {
+  margin:.5vw;
 }
