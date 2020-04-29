@@ -73,7 +73,7 @@
 #div4 { /*Second Paragraph*/
   background-color:#7a67ee;
   float:left;
-  width:74vw;
+  width:73vw;
   margin-left:1vw;
   color:#000;
   text-align:left;
@@ -83,7 +83,7 @@
   background-color:#33f;
   clear:both;
   float:left;
-  width:49vw;
+  width:48vw;
   margin-bottom:1vw;
   line-height:6vw;
 }
@@ -99,7 +99,7 @@
 #div7 { /*Fourth Heading*/
   background-color:#33f;
   float:right;
-  width:49vw;
+  width:48vw;
   clear:right;
   text-align:center;
   margin-bottom:1vw;
@@ -112,4 +112,48 @@
   float:right;
   width:47vw;
   text-align:left;
+}
+
+#div9 { /*Social Media*/
+  float:right;
+  clear:right;
+  text-align:left;
+  background-color:#33f;
+  width:48vw;
+  line-height:5.5vw;
+  margin-top:.5vw;
+}
+
+#sm {
+  font-size:2.75vw;
+  font-family:sans-serif;
+  margin-left:1vw;
+  float:left;
+  clear:none;
+}
+
+#insta {
+  width:3vw;
+  float:left;
+  clear:both;
+  margin-top:4vw;
+  margin-left:2.5vw;
+
+}
+
+#twitter {
+  width:6vw;
+  float:left;
+  margin-top:-7.275vw;
+  margin-left:23vw;
+  clear:none;
+}
+
+#smt {
+  font-size:2.75vw;
+  font-family:sans-serif;
+  float:left;
+  clear:none;
+  margin-top:-8.5vw;
+  margin-left:28vw;
 }
