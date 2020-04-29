@@ -160,8 +160,8 @@
 }
 
 #div10 { /*Comment Box*/
-  clear:both;
   float:left;
+  clear:left;
   width:90vw;
   height:10vw;
   margin-top:1vw;
@@ -171,4 +171,8 @@
 
 #commenttext {
   margin:.5vw;
+}
+
+#input {
+
 }
