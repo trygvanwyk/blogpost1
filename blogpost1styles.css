@@ -167,12 +167,15 @@
   margin-top:1vw;
   margin-bottom:2vw;
   text-align:left;
+  background-color:#7a67ee;
 }
 
 #commenttext {
   margin:.5vw;
 }
 
-#input {
-
+#inp {
+  width:88vw;
+  height:5vw;
+  background-color:#6a6ff1;
 }
