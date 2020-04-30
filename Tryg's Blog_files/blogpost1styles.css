@@ -1,0 +1,181 @@
+
+.parallax {
+  background-image:url("background2.jpg");
+  height:100vw;
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.paragraph {
+  font-size:1.5vw;
+  font-family:arial;
+  margin-left:.5vw;
+  margin-right:.5vw;
+}
+
+.pdiv {
+  padding: .5vw;
+  text-align:center;
+  border: .5vw solid #120a8f;
+  border:.25vw solid #030056;
+}
+
+.hdiv {
+  text-align:center;
+  height:10vw;
+}
+
+.h01 {
+  line-height:10vw;
+  font-size:3vw;
+  font-family:sans-serif;
+}
+
+.h02 {
+  font-size:2.5vw;
+  font-family:sans-serif;
+}
+
+#div1 { /*First Heading*/
+  background-color:#030056;
+  color:#fff;
+}
+
+#div2 { /*First Paragraph*/
+  background-color:#7a67ee;
+  float:left;
+  clear:both;
+  width:20vw;
+  left:1vw;
+  height:37vw;
+  margin-bottom:1vw;
+  text-align:left;
+}
+
+#img1 {
+  width:18vw;
+  height:12vw;
+  border: .25vw solid navy;
+}
+
+#span1 {
+  padding:.5vw;
+
+}
+
+#div3 { /*Second Heading*/
+  background-color:#33f;
+  line-height:10vw;
+  margin-bottom:1vw;
+}
+
+#div4 { /*Second Paragraph*/
+  background-color:#7a67ee;
+  float:left;
+  width:73vw;
+  margin-left:1vw;
+  color:#000;
+  text-align:left;
+}
+
+#div5 { /*Third Heading*/
+  background-color:#33f;
+  clear:both;
+  float:left;
+  width:48vw;
+  margin-bottom:1vw;
+  line-height:6vw;
+}
+
+#div6 { /*Third Paragraph*/
+  background-color:#7a67ee;
+  clear:left;
+  float:left;
+  width:47vw;
+  text-align:left;
+}
+
+#div7 { /*Fourth Heading*/
+  background-color:#33f;
+  float:right;
+  width:48vw;
+  clear:right;
+  text-align:center;
+  margin-bottom:1vw;
+  line-height:6vw;
+}
+
+#div8 { /*Fourth Paragraph*/
+  background-color:#7a67ee;
+  clear:right;
+  float:right;
+  width:47vw;
+  text-align:left;
+}
+
+#div9 { /*Social Media*/
+  float:right;
+  clear:right;
+  text-align:left;
+  background-color:#33f;
+  width:48vw;
+  line-height:5.5vw;
+  margin-top:.5vw;
+}
+
+#sm {
+  font-size:2.75vw;
+  font-family:sans-serif;
+  margin-left:1vw;
+  float:left;
+  clear:none;
+}
+
+#insta {
+  width:3vw;
+  float:left;
+  clear:both;
+  margin-top:4vw;
+  margin-left:2.5vw;
+
+}
+
+#twitter {
+  width:4vw;
+  float:left;
+  margin-top:-7.275vw;
+  margin-left:24vw;
+  clear:none;
+}
+
+#smt {
+  font-size:2.75vw;
+  font-family:sans-serif;
+  float:left;
+  clear:none;
+  margin-top:-8.5vw;
+  margin-left:28vw;
+}
+
+#div10 { /*Comment Box*/
+  float:left;
+  clear:left;
+  width:90vw;
+  height:10vw;
+  margin-top:1vw;
+  margin-bottom:2vw;
+  text-align:left;
+  background-color:#7a67ee;
+}
+
+#commenttext {
+  margin:.5vw;
+}
+
+#inp {
+  width:88vw;
+  height:5vw;
+  background-color:#6a6ff1;
+}
